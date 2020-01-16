@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-ribbon-customer" />
+        <module name="eureka-ribbon-service-a" />
+        <module name="eureka-ribbon-service-b" />
+        <module name="eureka-server" />
+        <module name="eureka-service-a" />
+        <module name="hello-user" />
+        <module name="say-hello" />
+        <module name="say-hello-b" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-ribbon-customer" target="1.8" />
+      <module name="eureka-ribbon-service-a" target="1.8" />
+      <module name="eureka-ribbon-service-b" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-service-a" target="1.8" />
+      <module name="hello-user" target="1.8" />
+      <module name="say-hello" target="1.8" />
+      <module name="say-hello-b" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

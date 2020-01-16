@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-customer/eureka-ribbon-customer.iml" filepath="$PROJECT_DIR$/eureka-ribbon-customer/eureka-ribbon-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-service-a/eureka-ribbon-service-a.iml" filepath="$PROJECT_DIR$/eureka-ribbon-service-a/eureka-ribbon-service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-service-b/eureka-ribbon-service-b.iml" filepath="$PROJECT_DIR$/eureka-ribbon-service-b/eureka-ribbon-service-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service-a/eureka-service-a.iml" filepath="$PROJECT_DIR$/eureka-service-a/eureka-service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-user/hello-user.iml" filepath="$PROJECT_DIR$/hello-user/hello-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/say-hello/say-hello.iml" filepath="$PROJECT_DIR$/say-hello/say-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/say-hello-b/say-hello-b.iml" filepath="$PROJECT_DIR$/say-hello-b/say-hello-b.iml" />
+    </modules>
+  </component>
+</project>
