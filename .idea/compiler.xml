@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-customer" />
+        <module name="config-server" />
+        <module name="eureka-feign-customer" />
         <module name="eureka-ribbon-customer" />
         <module name="eureka-ribbon-service-a" />
         <module name="eureka-ribbon-service-b" />
@@ -17,6 +20,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config-customer" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-feign-customer" target="1.8" />
       <module name="eureka-ribbon-customer" target="1.8" />
       <module name="eureka-ribbon-service-a" target="1.8" />
       <module name="eureka-ribbon-service-b" target="1.8" />

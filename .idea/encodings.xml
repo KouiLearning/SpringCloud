@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/eureka-ribbon-customer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-ribbon-service-a" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-ribbon-service-b" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-service-a" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hello-user" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/say-hello" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/say-hello-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/eureka-feign-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/eureka-ribbon-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/eureka-ribbon-service-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/eureka-ribbon-service-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/eureka-service-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ribbon-only/hello-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ribbon-only/say-hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ribbon-only/say-hello-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config-server" charset="UTF-8" />
   </component>
 </project>

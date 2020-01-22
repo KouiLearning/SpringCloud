@@ -14,6 +14,10 @@
         <option value="$PROJECT_DIR$/eureka-ribbon-service-a/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-ribbon-service-b/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-ribbon-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-feign-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-customer/pom.xml" />
       </list>
     </option>
   </component>
